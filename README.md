@@ -21,4 +21,4 @@
 | Проект | Стек | Ссылка |
 | :--- | :--- | :--- |
 | Todo App | React, JS | [Ссылка](https://github.com/lubmila09az-eng) |
-    
+ ![Snake animation](https://raw.githubusercontent.com/lubmila09az-eng/lubmila09az-eng/output/github-snake.svg)   
